@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prabhajyoti
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Kotlin 
+- 🌱 I’m currently learning Kotlin / flutter
 - 💞️ I’m looking to collaborate on Android Projects
 
 <!---
